@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="180" viewBox="0 0 240 180">
+    <!-- Lignes -->
+    <line x1="40" y1="50" x2="200" y2="50" stroke="white"/>
+    <line x1="200" y1="50" x2="160" y2="90" stroke="white"/>
+    <line x1="80" y1="90" x2="70" y2="120" stroke="white"/>
+    <line x1="80" y1="90" x2="40" y2="50" stroke="white"/>
+    <line x1="160" y1="90" x2="160" y2="120" stroke="white"/>
+    <line x1="70" y1="120" x2="160" y2="120" stroke="white"/>
+
+    <!-- Étoiles -->
+    <circle cx="40" cy="50" r="4" fill="white"/>
+    <circle cx="200" cy="50" r="4" fill="white"/>
+    <circle cx="160" cy="90" r="4" fill="white"/>
+    <circle cx="80" cy="90" r="4" fill="white"/>
+    <circle cx="70" cy="120" r="4" fill="white"/>
+    <circle cx="160" cy="120" r="4" fill="white"/>
+</svg>

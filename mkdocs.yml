@@ -1,0 +1,48 @@
+site_name: Spark of Madness
+site_description: Options de création de personnage pour la campagne Spark of Madness.
+
+docs_dir: docs
+
+theme:
+  name: material
+  language: fr
+  features:
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - toc.follow
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - meta
+  - tables
+
+nav:
+  - Accueil: index.md
+  - Sous-classes:
+      - Alchemist: Content/SubClasses/Alchemist.md
+      - Arcane Archer Revisited: Content/SubClasses/Arcane archer revisited.md
+      - Card Bettor: Content/SubClasses/Card Bettor.md
+      - Circle of the Displacer: Content/SubClasses/Circle of the Displacer.md
+      - Oath of Splendor: Content/SubClasses/Oath of Splendor.md
+      - Path of the Anvil: Content/SubClasses/Path of the anvil.md
+      - School of the Cascade: Content/SubClasses/School of the cascade.md
+      - Star Thrower: Content/SubClasses/Star thrower.md
+      - Thirsty Blade Bloodline: Content/SubClasses/Thirsty blade bloodline.md
+      - Underhand Blade: Content/SubClasses/Underhand blade.md
+  - Races:
+      - Kensut: Content/Races/Kensut.md
+  - Objets:
+      - Bladed Buckler: Content/Equipment/Bladed Buckler.md
+  - Dons: Content/Feats/Feats.md
+  - Références:
+      - Tempête de sable: 09-Other/Sandstorm.md
+      - Créatures du Cercle du Displacer:
+          - Displacer Cub: 08-Monster/Fiches/Displacer Cub.md
+          - Young Displacer Beast: 08-Monster/Fiches/Young Displacer Beast.md
+          - Displacer Beast: 08-Monster/Fiches/Displacer Beast.md
+          - Ancient Displacer Beast: 08-Monster/Fiches/Ancient Displacer Beast.md
+          - Mythic Displacer Beast: 08-Monster/Fiches/Mythic Displacer Beast.md
