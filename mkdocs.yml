@@ -1,11 +1,11 @@
 site_name: Spark of Madness
-site_description: Options de création de personnage pour la campagne Spark of Madness.
+site_description: Character creation options for the Spark of Madness campaign.
 
 docs_dir: docs
 
 theme:
   name: material
-  language: fr
+  language: en
   features:
     - navigation.sections
     - navigation.top
@@ -21,8 +21,8 @@ markdown_extensions:
   - tables
 
 nav:
-  - Accueil: index.md
-  - Sous-classes:
+  - Home: index.md
+  - Subclasses:
       - Alchemist: Content/SubClasses/Alchemist.md
       - Arcane Archer Revisited: Content/SubClasses/Arcane archer revisited.md
       - Card Bettor: Content/SubClasses/Card Bettor.md
@@ -35,12 +35,12 @@ nav:
       - Underhand Blade: Content/SubClasses/Underhand blade.md
   - Races:
       - Kensut: Content/Races/Kensut.md
-  - Objets:
+  - Items:
       - Bladed Buckler: Content/Equipment/Bladed Buckler.md
-  - Dons: Content/Feats/Feats.md
-  - Références:
-      - Tempête de sable: 09-Other/Sandstorm.md
-      - Créatures du Cercle du Displacer:
+  - Feats: Content/Feats/Feats.md
+  - References:
+      - Sandstorm: 09-Other/Sandstorm.md
+      - Displacer Circle Creatures:
           - Displacer Cub: 08-Monster/Fiches/Displacer Cub.md
           - Young Displacer Beast: 08-Monster/Fiches/Young Displacer Beast.md
           - Displacer Beast: 08-Monster/Fiches/Displacer Beast.md

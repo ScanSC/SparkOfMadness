@@ -1,10 +1,10 @@
 ---
-category: Sous-classe / Serment de Paladin
+category: Subclass / Paladin Oath
 ---
 
 # Paladin : Oath of Splendor
 
-The Oath of Splendor belongs to paladins who seek absolute perfection—in both their might and their elegance. To them, every battle is a work of art in which mastery, grace, and brutality must harmonize perfectly. Through their enchanted armor, they can assume various forms of power, borrowing the attributes of the greatest creatures and supernatural forces.\
+The Oath of Splendor belongs to paladins who seek absolute perfection—in both their might and their elegance. To them, every battle is a work of art in which mastery, grace, and brutality must harmonize perfectly. Through their enchanted armor, they can assume various forms of power, borrowing the attributes of the greatest creatures and supernatural forces.<br>
 Unwavering in the face of adversity, these paladins refuse defeat, continuing to fight even when their bodies ought to give out.
 
 ### Tenets of Splendor
@@ -25,8 +25,8 @@ Paladin level | Spells
 ### Channel Divinity
 When you take this oath at 3rd level, you gain the following two Channel Divinity options.
 
-**Wardrobe of Splendor.** As a bonus action, you can expend your Channel Divinity to imbue your armor with a blessing. For 1 minute, when you use this Channel Divinity or as a bonus action while it lasts, you can choose one of the blessings in the table below.\
-The blessing ends any spell affecting the armor and prevents any spell from affecting it, except for spells granted by a blessing.\
+**Wardrobe of Splendor.** As a bonus action, you can expend your Channel Divinity to imbue your armor with a blessing. For 1 minute, when you use this Channel Divinity or as a bonus action while it lasts, you can choose one of the blessings in the table below.<br>
+The blessing ends any spell affecting the armor and prevents any spell from affecting it, except for spells granted by a blessing.<br>
 
 Armor blessing            | Effects
 --------------------------|--------
@@ -55,7 +55,7 @@ Starting at 7th level, whenever you or an ally within 10 feet of you hits with a
 At 18th level, the range of this aura increases to 30 feet.
 
 ### Too Formidable
-Beginning at 15th level, when you would make a death saving throw, you can instead rise one last time with 1 hit point. Until the end of your next turn, your speed is doubled, you can't be <span style="color:limegreen">restrained</span>, you ignore the effects of exhaustion, you are immune to all damage, and all your attacks are critical hits.\
+Beginning at 15th level, when you would make a death saving throw, you can instead rise one last time with 1 hit point. Until the end of your next turn, your speed is doubled, you can't be <span style="color:limegreen">restrained</span>, you ignore the effects of exhaustion, you are immune to all damage, and all your attacks are critical hits.<br>
 When the effect ends, you gain 3 levels of exhaustion.
 
 *Does this woman feel no pain at all? Does she feel no fear?*

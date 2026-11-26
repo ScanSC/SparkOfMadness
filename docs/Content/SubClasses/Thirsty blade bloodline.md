@@ -1,5 +1,5 @@
 ---
-category: Sous-classe / Lignée de la lame assoiffée
+category: Subclass / Sorcerer Bloodline
 ---
 
 # Sorcerer : Thirsty blade bloodline
@@ -19,8 +19,8 @@ The **Thirsty Blade** uses your Charisma modifier and gains the following benefi
 At 1st level, you can use your Metamagic on attacks made with your **Thirsty Blade** as though the blade were a 1st-level melee spell.
 
 ### Unstoppable thirst
-At 6th level, if you fall unconscious, your **Thirsty Blade** attacks on its own once per turn. It targets creatures within its reach, prioritizing enemies before other creatures and creatures with fewer hit points before those with more.\
-These attacks use your Charisma modifier and proficiency bonus and trigger Vampiric Feast.\
+At 6th level, if you fall unconscious, your **Thirsty Blade** attacks on its own once per turn. It targets creatures within its reach, prioritizing enemies before other creatures and creatures with fewer hit points before those with more.<br>
+These attacks use your Charisma modifier and proficiency bonus and trigger Vampiric Feast.<br>
 The blade can't make opportunity attacks on its own.
 
 ### Great thirst

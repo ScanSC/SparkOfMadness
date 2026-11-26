@@ -1,5 +1,5 @@
 ---
-category: Sous-classe / Conclave de Ranger
+category: Subclass / Ranger Conclave
 ---
 
 # Ranger : Star Thrower
@@ -7,8 +7,8 @@ category: Sous-classe / Conclave de Ranger
 Rangers of this conclave read the night sky as both map and arsenal. By binding thrown weapons to a chosen constellation, they call down flashes of celestial power on their quarry and recall their star-marked arms with a gesture.
 
 ### Magical Constellation
-By performing a 1-hour ritual, you can magically bind up to six weapons to a __constellation__. The weapons must have the thrown property.\
-When you hit a creature with a ranged weapon attack using a __bound weapon__, the weapon attaches to the target, floating around it and following it. If the target is teleported or changes planes, the weapons detach and return to you.\
+By performing a 1-hour ritual, you can magically bind up to six weapons to a __constellation__. The weapons must have the thrown property.<br>
+When you hit a creature with a ranged weapon attack using a __bound weapon__, the weapon attaches to the target, floating around it and following it. If the target is teleported or changes planes, the weapons detach and return to you.<br>
 If a target has six bound weapons attached to it, it triggers the constellation's __Star Fall__, and the weapons return to you.
 
 Constellation | Name | Star Fall
@@ -25,12 +25,12 @@ At 3rd level, when you take the Attack action and throw a __bound weapon__, you 
 At 3rd level, as a bonus action, you can recall all your thrown weapons. For each recalled weapon that was attached to a creature, that creature takes <span style="color:gold">radiant</span> damage equal to your Wisdom modifier.
 
 ### Lucky Star
-At 7th level, when you miss with a thrown weapon attack using a __bound weapon__, you can still attach the weapon to the target.\
-You can use this trait a number of times equal to your proficiency bonus + 1.\
+At 7th level, when you miss with a thrown weapon attack using a __bound weapon__, you can still attach the weapon to the target.<br>
+You can use this trait a number of times equal to your proficiency bonus + 1.<br>
 You regain all expended uses when you finish a long rest.
 
 ### Star Light
-At 11th level, when you hit a creature with a thrown weapon attack using a __bound weapon__, you deal additional damage equal to your Wisdom modifier.\
+At 11th level, when you hit a creature with a thrown weapon attack using a __bound weapon__, you deal additional damage equal to your Wisdom modifier.<br>
 Moreover, when you trigger __Star Fall__:
 - the target must succeed on a Constitution saving throw or become <span style="color:ivory">blinded</span> until the end of its next turn;
 - you can expend a spell slot to add <span style="color:gold">1d10 radiant</span> damage for each level of the slot.

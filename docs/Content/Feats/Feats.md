@@ -1,3 +1,3 @@
-# Dons
+# Feats
 
-Aucun don de création de personnage n'est répertorié pour le moment. Cette rubrique sera complétée si de nouveaux dons sont ajoutés à la campagne.
+No character creation feats have been added yet. This section will be updated if new feats are introduced for the campaign.

@@ -1,8 +1,8 @@
 ---
-category: Sous-classe / Archétype martial de Guerrier
+category: Subclass / Fighter Martial Archetype
 ---
 
-# Guerrier : Archer arcanique revisité
+# Fighter: Revised Arcane Archer
 
 An Arcane Archer studies a unique elven method of archery that weaves magic into attacks to produce supernatural effects. Arcane Archers are some of their most elite warriors among the elves. They stand watch over the fringes of elven domains, keeping a keen eye out for trespassers and using magic-infused arrows to defeat monsters and invaders before they can reach elven settlements. Over the centuries, the methods of these elf archers have been learned by members of other races who can also balance arcane aptitude with archery.
 
@@ -10,12 +10,12 @@ An Arcane Archer studies a unique elven method of archery that weaves magic into
 At 3rd level, you gain the ability to conjure arrows when you draw your bow or crossbow (or a dart or bullet just before firing). The conjured projectile disappears after hitting or missing a target.
 
 ### Arcanic points
-At 3rd level, you have 4 Arcanic points, and you gain 1 more whenever you gain a fighter level.
+At 3rd level, you have 4 Arcanic points, and you gain 1 more whenever you gain a fighter level.<br>
 You can spend these points to add cumulative effects to a shot before firing. The maximum number of Arcanic points you can spend on one shot equals your proficiency bonus + your Intelligence modifier. If the shot misses, you regain half the expended points, rounded up.
 You regain all expended Arcanic points after a long rest.
 
 ### Arcane shots
-At 3rd level, when using Arrow Conjuration, you can imbue the projectile with magic.
+At 3rd level, when using Arrow Conjuration, you can imbue the projectile with magic.<br>
 Choose 3 options in the table below.
 
 Option | Effect | Arcanic cost
@@ -33,17 +33,17 @@ Putrefaction Arrow | The arrow is filled with death energy. It deals <span style
 The saving throw DC equals 8 + your proficiency bonus + your Intelligence modifier.
 
 ### Curving Shot
-At 7th level, you learn how to direct an errant arrow toward a new target. When you make an attack roll with a magic arrow and miss, you can use a bonus action to reroll the attack roll against a different target within 60 feet of the original target.
+At 7th level, you learn how to direct an errant arrow toward a new target. When you make an attack roll with a magic arrow and miss, you can use a bonus action to reroll the attack roll against a different target within 60 feet of the original target.<br>
 You also choose one additional Arcane Shot option, and effects dealing damage are improved to 2d8.
 
 ### Counter shot
-At 10th level, you can use your reaction and 1 Arcane point to shoot a special arrow at another projectile, whether it is magical or not, and destroy it. To do so, you must make an attack roll with a result equal higher than the other projectile's attack roll or its spell save DC + 2 per spell level.
+At 10th level, you can use your reaction and 1 Arcane point to shoot a special arrow at another projectile, whether it is magical or not, and destroy it. To do so, you must make an attack roll with a result equal higher than the other projectile's attack roll or its spell save DC + 2 per spell level.<br>
 You also choose one additional Arcane Shot option.
 
 ### Returning magic
-At 15th level, when you miss an attack with an Arcane Shot, you regain all Arcanic points spent for that attack.
+At 15th level, when you miss an attack with an Arcane Shot, you regain all Arcanic points spent for that attack.<br>
 You also choose one additional Arcane Shot option, and effects dealing damage are improved to 3d8.
 
 ### Spectral Archer
-At 18th level, you can shoot an arrow from any point within 30 feet of you. A spectral archer appears, fires the arrow, and then vanishes.
+At 18th level, you can shoot an arrow from any point within 30 feet of you. A spectral archer appears, fires the arrow, and then vanishes.<br>
 You also choose one additional Arcane Shot option, and effects dealing damage are improved to 4d8.

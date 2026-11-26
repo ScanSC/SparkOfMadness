@@ -1,9 +1,9 @@
 # Spark of Madness
 
-## Contenu additionnel de création de personnage
+## New Character Creation Content
 
-Cette documentation rassemble les options de création de personnage ajoutées pour la campagne **Spark of Madness**. Ces contenus viennent compléter les règles utilisées à la table ; ils ne les remplacent pas, sauf indication contraire dans une fiche.
+This documentation brings together the character creation options added for the **Spark of Madness** campaign. These additions supplement the rules used at the table; they do not replace them unless a character option says otherwise.
 
-Parcourez les catégories pour découvrir les sous-classes, la race et les objets disponibles. Les fiches sont conservées dans leur langue d'origine.
+Browse the categories to discover the available subclasses, race, and items. All character option descriptions are in English.
 
-Les options sont classées dans les rubriques **Sous-classes**, **Races**, **Objets** et **Dons**. Les références complémentaires, comme les formes du Cercle du Displacer, se trouvent dans la rubrique **Références**.
+Options are organized into **Subclasses**, **Races**, **Items**, and **Feats**. Supporting references, such as the Circle of the Displacer forms, are available under **References**.

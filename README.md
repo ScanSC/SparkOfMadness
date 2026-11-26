@@ -1,17 +1,17 @@
-# Spark of Madness — documentation des personnages
+# Spark of Madness — Character Options
 
-Site MkDocs regroupant le contenu additionnel de création de personnage de la campagne **Spark of Madness**.
+MkDocs site for the additional character creation options in the **Spark of Madness** campaign.
 
-## Mettre à jour le contenu
+## Updating the content
 
-Les fiches publiées sont dans `docs/Content/`. Pour recopier les fiches correspondantes depuis le vault situé au dossier parent, lancez PowerShell depuis ce dépôt :
+Published character options are in `docs/Content/`. To copy the corresponding files from the vault in the parent folder, run this script in PowerShell:
 
 ```powershell
 .\scripts\sync-character-content.ps1
 ```
 
-Vérifiez les changements, puis commitez et poussez-les sur `main`. L'action GitHub `Publish documentation` reconstruira le site et publiera la nouvelle version sur la branche `gh-pages`.
+Review the changes, then commit and push them to `main`. The `Publish documentation` GitHub Action will rebuild the site and publish the new version to the `gh-pages` branch.
 
-Lors de la première publication, configurez GitHub Pages dans les paramètres du dépôt pour publier depuis la branche `gh-pages`, dossier `/ (root)`.
+For the first publication, configure GitHub Pages in the repository settings to publish from the `gh-pages` branch, using the `/ (root)` folder.
 
-Pour ajouter une fiche, placez-la dans la catégorie appropriée sous `docs/Content/` et ajoutez-la à la navigation de `mkdocs.yml`.
+To add a character option, place it in the appropriate category under `docs/Content/` and add it to the navigation in `mkdocs.yml`.

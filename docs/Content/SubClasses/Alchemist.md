@@ -1,4 +1,4 @@
-category: Sous-classe / Cercle de Druide
+category: Subclass / Druid Circle
 ---
 
 # Druid : Circle of the Cauldron
@@ -41,7 +41,7 @@ Nala's Bubbles     | 14th                 | Area      | When the flask breaks, i
 Smell of Madness   | 14th                 | Area      | When the flask breaks, it creates a cloud of purple smoke in a 10-foot radius that lasts for 3 rounds. A creature that can breathe and starts its turn in the cloud must succeed on a Wisdom saving throw or regard every other creature as hostile until the start of its next turn.
 Infernal Megabomb  | 14th                 | Area      | When the flask breaks, it explodes in a 10-foot radius. Each creature in the explosion must make a Dexterity saving throw, taking 2d4 <span style="color:red">force</span> + 3d4 <span style="color:darkorange">fire</span> damage on a failed save, or half as much damage on a successful one.
 
-You can carry a number of potions equal to your druid level + your Wisdom modifier.\
+You can carry a number of potions equal to your druid level + your Wisdom modifier.<br>
 During a long rest, you can replenish your supply of potions if you have access to soil in which to grow the plants. You choose any combination of potions to carry. Each 14th-level potion requires a spell slot of 1st level or higher to create, and a higher-level spell slot allows you to create more of them.
 
 The saving throw DC for your potions equals your spell save DC.
@@ -57,5 +57,5 @@ In addition, you can throw a flask and cast a spell as part of the same action, 
 At 10th level, your potions use d8s instead of d4s.
 
 ### Secret Ingredient
-At 14th level, a creature that makes a saving throw as a result of one of your potions has disadvantage on that saving throw.\
+At 14th level, a creature that makes a saving throw as a result of one of your potions has disadvantage on that saving throw.<br>
 In addition, you automatically succeed on saving throws you make as a result of your own potions.
