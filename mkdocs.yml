@@ -23,7 +23,7 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Subclasses:
-      - Alchemist: Content/SubClasses/Alchemist.md
+      - Circle of the Cauldron: Content/SubClasses/CircleOfTheCauldron.md
       - Arcane Archer Revisited: Content/SubClasses/Arcane archer revisited.md
       - Card Bettor: Content/SubClasses/Card Bettor.md
       - Circle of the Displacer: Content/SubClasses/Circle of the Displacer.md

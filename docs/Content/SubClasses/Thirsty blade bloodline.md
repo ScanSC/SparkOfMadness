@@ -7,12 +7,16 @@ category: Subclass / Sorcerer Bloodline
 *It is said that these sorcerers placed a portion of their soul into their weapon. The blade answers its master's call, sharing in the power and the hunger that comes with their bond.*
 
 ### Pact of the thirst
-At 1st level, by performing a 1-hour ritual, you can bond a melee weapon to yourself. This weapon becomes your **Thirsty Blade** until you die or bond with another weapon.
-A **Thirsty Blade** can't receive any pact magic or be used for bladesong.
+At 1st level, by performing a 1-hour ritual, you can bond a melee weapon to yourself. This weapon becomes your **Thirsty Blade** until you die or bond with another weapon.<br>
+A **Thirsty Blade** can't receive any pact magic or be used for bladesong.<br>
 The **Thirsty Blade** uses your Charisma modifier and gains the following benefits:
+
 - You are proficient with it.
+
 - **Call of the Hunt.** As a bonus action, you can teleport it to your hand and equip it. If your hand isn't free, the object in that hand is teleported to where the **Thirsty Blade** was.
+
 - **Corrupted Blade.** When you hit with it, you can spend 1 sorcery point to add a number of d6s equal to your proficiency bonus in <span style="color:mediumseagreen">necrotic</span> damage.
+
 - **Vampiric Feast.** When you hit a non-construct creature with it, you regain a number of hit points equal to your Charisma modifier. If the attack kills the target, you regain 1 sorcery point and increase the <span style="color:darkturquoise">healing</span> by the excess damage dealt.
 
 ### Sorcerer's trick

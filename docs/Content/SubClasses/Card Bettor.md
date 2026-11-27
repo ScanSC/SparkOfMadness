@@ -20,6 +20,7 @@ Arcanic cards deal bonus damage and can have an __amplified effect__.
 When you hit with an __Arcanic card__, you announce a number between 1 and 6. The first damage roll (<span style="color:lightslategrey">1d6 slashing damage</span>) determines the thrown card (by its assigned number). If it matches the announced number, it triggers the __amplified effect__.<br>
 If you hit with your __Sneak Attack__, double the bonus damage from the __Arcanic card__.<br>
 You start with 6 of these cards in your inventory :
+
 Card | Bonus Damages | Amplified Effect
 -----|---------------|-----------------
 The bard | <span style="color:hotpink">1d6 psychic damage</span> | Charisma saving throw: disadvantage on the next attack roll

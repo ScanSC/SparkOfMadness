@@ -6,7 +6,7 @@ $characterSheets = Join-Path $vaultRoot '07-Character-Creation\Fiches'
 $docsRoot = Join-Path $repoRoot 'docs'
 
 $copyMap = @{
-    'Alchemist.md' = 'Content\SubClasses\Alchemist.md'
+    'CircleOfTheCauldron.md' = 'Content\SubClasses\CircleOfTheCauldron.md'
     'Arcane archer revisited.md' = 'Content\SubClasses\Arcane archer revisited.md'
     'Card Bettor.md' = 'Content\SubClasses\Card Bettor.md'
     'Circle of the Displacer.md' = 'Content\SubClasses\Circle of the Displacer.md'
@@ -21,7 +21,7 @@ $copyMap = @{
 }
 
 $categoryMap = @{
-    'Alchemist.md' = 'Subclass / Druid Circle'
+    'CircleOfTheCauldron.md' = 'Subclass / Druid Circle'
     'Arcane archer revisited.md' = 'Subclass / Fighter Martial Archetype'
     'Card Bettor.md' = 'Subclass / Rogue Archetype'
     'Circle of the Displacer.md' = 'Subclass / Druid Circle'

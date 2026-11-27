@@ -12,6 +12,7 @@ As an action, you can conjure up to 1 liter of water.
 
 ### Expanded Spell List
 The following spells are added to the bard spell list for you:
+
 Spell level | Spells |
 ------------|--------|
 0 | Shape water

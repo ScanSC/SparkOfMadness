@@ -8,9 +8,9 @@ category: Subclass / Paladin Oath
 *Unwavering in the face of adversity, these paladins refuse defeat, continuing to fight even when their bodies ought to give out.*
 
 ### Tenets of Splendor
-Though the exact words and strictures of the Oath of Splendor vary, paladins of this oath share these tenets.
-- **The pursuit of perfection.** You can always do better, and you always strive to do so.
-- **Never give up.** You never accept defeat in a serious fight.
+Though the exact words and strictures of the Oath of Splendor vary, paladins of this oath share these tenets.<br>
+- **The pursuit of perfection.** You can always do better, and you always strive to do so.<br>
+- **Never give up.** You never accept defeat in a serious fight.<br>
 - **Elegance in violence.** A fight is an artistic performance. Brute force without mastery is merely vulgarity, and victory is as important as the manner in which it is achieved.
 
 ### Oath Spells
