@@ -26,7 +26,7 @@ Card | Bonus Damages | Amplified Effect
 The bard | <span style="color:hotpink">1d6 psychic damage</span> | Charisma saving throw: disadvantage on the next attack roll
 The cleric | <span style="color:darkturquoise">1d6 healing</span> | Constitution saving throw: healing the target receives is replaced by an equivalent amount of <span style="color:mediumseagreen">necrotic damage</span> until the end of its next turn
 The fighter | <span style="color:lightslategrey">1d6 slashing damage</span> | Strength saving throw: can't make multiple attacks until the end of its next turn
-The paladin | <span style="color:gold">1d6 radiant damage</span> | Wisdom saving throw: <span style="color:ivory">blinded</span> until the end of its next turn
+The paladin | <span style="color:gold">1d6 radiant damage</span> | Wisdom saving throw: <span style="color:lightslategrey">blinded</span> until the end of its next turn
 The barbarian | <span style="color:lightslategrey">1d6 bludgeoning damage</span> | Wisdom saving throw: <span style="color:darkorchid">frightened</span> until the end of its next turn
 The druid | <span style="color:lawngreen">1d6 poison damage</span> | Dexterity saving throw: <span style="color:limegreen">restrained</span> until the end of its next turn
 The monk | <span style="color:mediumslateblue">1d6 thunder damage</span> | You can make another attack

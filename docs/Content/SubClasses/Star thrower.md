@@ -32,7 +32,7 @@ You regain all expended uses when you finish a long rest.
 ### Star Light
 At 11th level, when you hit a creature with a thrown weapon attack using a __bound weapon__, you deal additional damage equal to your Wisdom modifier.<br>
 Moreover, when you trigger __Star Fall__:
-- the target must succeed on a Constitution saving throw or become <span style="color:ivory">blinded</span> until the end of its next turn;
+- the target must succeed on a Constitution saving throw or become <span style="color:lightslategrey">blinded</span> until the end of its next turn;
 - you can expend a spell slot to add <span style="color:gold">1d10 radiant</span> damage for each level of the slot.
 
 ### Light Speed
