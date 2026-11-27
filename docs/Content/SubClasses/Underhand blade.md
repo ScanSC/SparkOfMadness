@@ -4,7 +4,7 @@ category: Subclass / Rogue Archetype
 
 # Rogue : Underhand Blade
 
-Some people will do anything to win a fight. Rogues who follow the Underhand Blade know that honor is of no use to the dead.
+*Some people will do anything to win a fight. Rogues who follow the Underhand Blade know that honor is of no use to the dead.*
 
 ### Cunning Tricks
 You gain proficiency in the Deception skill.<br>

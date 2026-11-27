@@ -4,7 +4,7 @@ category: Subclass / Bard College
 
 # Bard : School of the Cascade
 
-The magic of the bards of the School of the Cascade manifests as sparkling, pure water that leaps from creature to creature, healing wounds and easing torments.
+*The magic of the bards of the School of the Cascade manifests as sparkling, pure water that leaps from creature to creature, healing wounds and easing torments.*
 
 ### Revitalizing Water
 At 3rd level, when you restore hit points, the healing manifests as flying __water orbs__.<br>

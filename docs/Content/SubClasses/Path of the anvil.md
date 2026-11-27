@@ -4,7 +4,7 @@ category: Subclass / Barbarian Primal Path
 
 # Barbarian : path of the anvil
 
-Barbarians who follow the Path of the Anvil temper their fury like iron in a forge. Their rage kindles a searing inner heat, turning each blow into a hammer strike and making them stubborn defenders who grow more dangerous the longer a battle rages.
+*Barbarians who follow the Path of the Anvil temper their fury like iron in a forge. Their rage kindles a searing inner heat, turning each blow into a hammer strike and making them stubborn defenders who grow more dangerous the longer a battle rages.*
 
 ### Armored Defense (Replaces Unarmored Defense)
 At 3rd level, you gain proficiency with heavy armor and smith's tools.<br>

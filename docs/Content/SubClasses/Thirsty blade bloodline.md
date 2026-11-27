@@ -4,7 +4,7 @@ category: Subclass / Sorcerer Bloodline
 
 # Sorcerer : Thirsty blade bloodline
 
-It is said that these sorcerers placed a portion of their soul into their weapon. The blade answers its master's call, sharing in the power—and the hunger—that comes with their bond.
+*It is said that these sorcerers placed a portion of their soul into their weapon. The blade answers its master's call, sharing in the power and the hunger that comes with their bond.*
 
 ### Pact of the thirst
 At 1st level, by performing a 1-hour ritual, you can bond a melee weapon to yourself. This weapon becomes your **Thirsty Blade** until you die or bond with another weapon.

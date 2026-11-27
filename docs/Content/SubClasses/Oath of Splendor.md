@@ -4,8 +4,8 @@ category: Subclass / Paladin Oath
 
 # Paladin : Oath of Splendor
 
-The Oath of Splendor belongs to paladins who seek absolute perfection—in both their might and their elegance. To them, every battle is a work of art in which mastery, grace, and brutality must harmonize perfectly. Through their enchanted armor, they can assume various forms of power, borrowing the attributes of the greatest creatures and supernatural forces.<br>
-Unwavering in the face of adversity, these paladins refuse defeat, continuing to fight even when their bodies ought to give out.
+*The Oath of Splendor belongs to paladins who seek absolute perfection in both their might and their elegance. To them, every battle is a work of art in which mastery, grace, and brutality must harmonize perfectly. Through their enchanted armor, they can assume various forms of power, borrowing the attributes of the greatest creatures and supernatural forces.*<br>
+*Unwavering in the face of adversity, these paladins refuse defeat, continuing to fight even when their bodies ought to give out.*
 
 ### Tenets of Splendor
 Though the exact words and strictures of the Oath of Splendor vary, paladins of this oath share these tenets.

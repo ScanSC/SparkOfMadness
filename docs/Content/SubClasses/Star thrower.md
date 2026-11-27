@@ -4,7 +4,7 @@ category: Subclass / Ranger Conclave
 
 # Ranger : Star Thrower
 
-Rangers of this conclave read the night sky as both map and arsenal. By binding thrown weapons to a chosen constellation, they call down flashes of celestial power on their quarry and recall their star-marked arms with a gesture.
+*Rangers of this conclave read the night sky as both map and arsenal. By binding thrown weapons to a chosen constellation, they call down flashes of celestial power on their quarry and recall their star-marked arms with a gesture.*
 
 ### Magical Constellation
 By performing a 1-hour ritual, you can magically bind up to six weapons to a __constellation__. The weapons must have the thrown property.<br>

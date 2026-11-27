@@ -4,7 +4,7 @@ category: Subclass / Druid Circle
 
 # Druid : Circle of the Displacer
 
-Druids of the Circle of the Displacer are as rare as the beasts they admire—and just as formidable.
+*Druids of the Circle of the Displacer are as rare as the beasts they admire—and just as formidable.*
 
 ### Hunter Wild Shape
 When you choose this circle at 2nd level, you gain the ability to use Wild Shape on your turn as a bonus action, rather than as an action.<br>

@@ -4,8 +4,8 @@ category: Race
 
 # Kensut
 
-These humanoid foxes originate from the south of Faerûn and have long been outcasts. Most often working as merchants or highwaymen, they are particularly at home in desert regions.<br>
-Long ago, one of them became wealthy enough to construct a great vessel, allowing him to migrate to the nearby island of Samargol, taking as many of his kin along with him as possible.
+*These humanoid foxes originate from the south of Faerûn and have long been outcasts. Most often working as merchants or highwaymen, they are particularly at home in desert regions.*<br>
+*Long ago, one of them became wealthy enough to construct a great vessel, allowing him to migrate to the nearby island of Samargol, taking as many of his kin along with him as possible.*
 
 - __Ability Score Increase__ : When determining your character’s ability scores, increase one score by 2 and increase a different score by 1, or increase three different scores by 1. You can't raise any of your scores above 20.
 

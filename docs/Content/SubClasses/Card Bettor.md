@@ -4,8 +4,8 @@ category: Subclass / Rogue Archetype
 
 # Rogue : Card Bettor
 
-Legend has it that the first "Card Bettor" was an assassin so gifted that every contract he took on bored him. One evening, while drinking and playing cards with a magician friend, the two came up with a brilliant idea.<br>
-This combat method did not meet with much success, as the assassin died during his very next contract, having drawn the wrong card. Nevertheless, those who still practice it have sown panic among a group of mentalist bandits.
+*Legend has it that the first "Card Bettor" was an assassin so gifted that every contract he took on bored him. One evening, while drinking and playing cards with a magician friend, the two came up with a brilliant idea.*<br>
+*This combat method did not meet with much success, as the assassin died during his very next contract, having drawn the wrong card. Nevertheless, those who still practice it have sown panic among a group of mentalist bandits.*
 
 ### Cards Conjuration
 You have proficiency with card games.

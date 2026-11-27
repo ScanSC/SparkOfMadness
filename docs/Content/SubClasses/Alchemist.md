@@ -3,7 +3,7 @@ category: Subclass / Druid Circle
 
 # Druid : Circle of the Cauldron
 
-These druids are rarely found together, as they more or less detest one another—a sentiment stemming from an ancient rite that involved presenting one’s latest alchemical inventions to the rest of the group, and the last iteration of this event proved to be explosive. Druids from other circles mock them, claiming that the members of the Circle of the Cauldron had a falling out over a cooking contest.
+*These druids are rarely found together, as they more or less detest one another—a sentiment stemming from an ancient rite that involved presenting one’s latest alchemical inventions to the rest of the group, and the last iteration of this event proved to be explosive. Druids from other circles mock them, claiming that the members of the Circle of the Cauldron had a falling out over a cooking contest.*
 
 ### Circle Spells
 
